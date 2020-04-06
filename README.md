@@ -4,6 +4,9 @@ A little contribution for these thug moments.
 
 You can follow the toturial for building this app [here](https://medium.com/@thianlopezz/react-coronavirus-map-8c0c90a3a5a8?sk=f1b9c82370dbb3e2cda204b4099657c4).
 
+![Capture 1](./captures/1.png)
+![Capture 2](./captures/1.png)
+
 ## Enjoy 😎
 
 [Thian López](https://thianlopezz.com 'thianlopezz.com')
